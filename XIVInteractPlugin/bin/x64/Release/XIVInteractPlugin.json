@@ -1,0 +1,20 @@
+{
+  "Author": "Redeven",
+  "Name": "XIV Interact",
+  "InternalName": "XIVInteractPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "/interact : Interacts with current target.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/redeven/XIVInteractPlugin",
+  "Tags": [
+    "interact",
+    "command",
+    "confirm"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Adds a command to interact with current target.",
+  "AcceptsFeedback": true
+}

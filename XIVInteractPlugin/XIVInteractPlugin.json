@@ -1,0 +1,14 @@
+{
+    "Name": "XIV Interact",
+    "InternalName": "xivInteract",
+    "Author": "Redeven",
+    "ApplicableVersion": "any",
+    "Punchline": "Adds a command to interact with current target.",
+    "Description": "/interact : Interacts with current target.",
+    "Tags": [
+        "interact",
+        "command",
+        "confirm"
+    ],
+    "RepoUrl": "https://github.com/redeven/XIVInteractPlugin"
+}
