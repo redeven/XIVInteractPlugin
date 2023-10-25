@@ -11,9 +11,10 @@
     "command",
     "confirm"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Adds a command to interact with current target.",
   "AcceptsFeedback": true
