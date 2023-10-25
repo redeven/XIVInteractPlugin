@@ -2,7 +2,7 @@
   "Author": "Redeven",
   "Name": "XIV Interact",
   "InternalName": "XIVInteractPlugin",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "/interact : Interacts with current target.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/redeven/XIVInteractPlugin",

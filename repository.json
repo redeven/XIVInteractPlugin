@@ -3,7 +3,7 @@
         "Author": "Redeven",
         "Name": "XIV Interact",
         "InternalName": "XIVInteractPlugin",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "Description": "/interact : Interacts with current target.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/redeven/XIVInteractPlugin",
@@ -19,7 +19,7 @@
         "LoadPriority": 0,
         "Punchline": "Adds a command to interact with current target.",
         "AcceptsFeedback": true,
-        "LastUpdated": 1698240539,
+        "LastUpdated": 1698241807,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip"
